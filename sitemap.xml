@@ -5,27 +5,27 @@
           xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
      <url>
-                 <loc>index.html</loc>
-                 <lastmod>2025-07-07T16:50:34+00:00</lastmod>
+                 <loc>https://huzmmmaifa-lyart.vercel.app/index.html</loc>
+                 <lastmod>2025-07-07T16:58:34+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>privacy-policy.html</loc>
-                 <lastmod>2025-07-07T16:50:34+00:00</lastmod>
+                 <loc>https://huzmmmaifa-lyart.vercel.app/privacy-policy.html</loc>
+                 <lastmod>2025-07-07T16:58:34+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>feed.xml</loc>
-                 <lastmod>2025-07-07T16:50:34+00:00</lastmod>
+                 <loc>https://huzmmmaifa-lyart.vercel.app/sitemap.html</loc>
+                 <lastmod>2025-07-07T16:58:34+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>sitemap.xml</loc>
-                 <lastmod>2025-07-07T16:50:34+00:00</lastmod>
+                 <loc>https://huzmmmaifa-lyart.vercel.app/sitemap.xml</loc>
+                 <lastmod>2025-07-07T16:58:34+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>sitemap.html</loc>
-                 <lastmod>2025-07-07T16:50:34+00:00</lastmod>
+                 <loc>https://huzmmmaifa-lyart.vercel.app/feed.xml</loc>
+                 <lastmod>2025-07-07T16:58:34+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>about-us.html</loc>
-                 <lastmod>2025-07-07T16:50:34+00:00</lastmod>
+                 <loc>https://huzmmmaifa-lyart.vercel.app/about-us.html</loc>
+                 <lastmod>2025-07-07T16:58:34+00:00</lastmod>
                  <priority>0.80</priority>
                </url></urlset>
